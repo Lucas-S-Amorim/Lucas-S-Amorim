@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/Lucas-Salvador-Amorim">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Salvador-Amorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Salvador-Amorim&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Salvador-Amorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Salvador-Amorim&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   
