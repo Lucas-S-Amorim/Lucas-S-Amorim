@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Back-end
-- 🌱 Estudando Python
+- 🌱 Estudando JAVA
 
 <div align="center">
   <a href="https://github.com/Lucas-Salvador-Amorim">
